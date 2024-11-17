@@ -1,7 +1,13 @@
 import pywhatkit
 import time
 
+""" Con la libreria time,manejas eventos con respento al tiempo,
+en caso que quieras cronometrar eventos o, en este caso, mandas
+mensajes a un cierto horario"""
+
+
 # num = "+5493544438465"
+
 num = "+5493533684061"
 path_img = "/home/fer/Desktop/Python_New/BotChat/Img/Fabri.png"
 
