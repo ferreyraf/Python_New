@@ -1,4 +1,4 @@
-import pywhatkit
+import pywhatkit as kit
 import time
 
 """ Con la libreria time,manejas eventos con respento al tiempo,
@@ -7,8 +7,8 @@ mensajes a un cierto horario"""
 
 
 # num = "+5493544438465"
-
 num = "+5493533684061"
+
 path_img = "/home/fer/Desktop/Python_New/BotChat/Img/Fabri.png"
 
 # pywhatkit.sendwhatmsg_to_group(id_grup,"Mensaje de Prueba",8,28)
@@ -18,11 +18,8 @@ path_img = "/home/fer/Desktop/Python_New/BotChat/Img/Fabri.png"
 
 # Send an Image to a Group with the Caption as Hello
 # pywhatkit.sendwhats_image(num, path_img, "Hello")
-
 # Send an Image to a Contact with the no Caption
-pywhatkit.sendwhats_image(phone_no = num, img_path = path_img,caption = "Recordatorio de Tarea,prueba de pywhatkit...")
-
-
+kit.sendwhats_image(phone_no = num, img_path = path_img,caption = "Recordatorio de Tarea,prueba de pywhatkit...")
 
 """
 
