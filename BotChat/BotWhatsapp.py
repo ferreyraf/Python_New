@@ -19,10 +19,12 @@ path_img = "/home/fer/Desktop/Python_New/BotChat/Img/Fabri.png"
 # Send an Image to a Group with the Caption as Hello
 # pywhatkit.sendwhats_image(num, path_img, "Hello")
 # Send an Image to a Contact with the no Caption
-kit.sendwhats_image(phone_no = num, img_path = path_img,caption = "Recordatorio de Tarea,prueba de pywhatkit...")
+
+kit.sendwhats_image(phone_no=num, img_path=path_img,
+                    caption="Recordatorio de Tarea,prueba de pywhatkit...")
+
 
 """
-
 # Send a WhatsApp Message to a Contact at 1:30 PM
 pywhatkit.sendwhatmsg("+910123456789", "Hi", 13, 30)
 
