@@ -1,0 +1,94 @@
+Date: 17/11/2024
+Time: 8:16
+Group ID: GM23zpuvmBX4Np4E85W6be
+Message: Mensaje de Prueba
+--------------------
+Date: 17/11/2024
+Time: 8:27
+Group ID: GM23zpuvmBX4Np4E85W6be
+Message: Mensaje de Prueba
+--------------------
+Date: 17/11/2024
+Time: 8:28
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: Img/Fabri.jpeg
+Caption: Hello
+--------------------
+Date: 17/11/2024
+Time: 8:28
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: Img/Fabri.jpeg
+Caption: Hello
+--------------------
+Date: 17/11/2024
+Time: 8:29
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: Img/Fabri.jpeg
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:33
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: Img/Fabri.png
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:40
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: Hello
+--------------------
+Date: 17/11/2024
+Time: 8:42
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: Mensaje medio raro
+--------------------
+Date: 17/11/2024
+Time: 8:42
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: Mensaje medio raro
+--------------------
+Date: 17/11/2024
+Time: 8:45
+Group ID: GM23zpuvmBX4Np4E85W6be
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: Mensaje medio raro
+--------------------
+Date: 17/11/2024
+Time: 8:46
+Phone Number: +5493533684061
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: Hello
+--------------------
+Date: 17/11/2024
+Time: 8:46
+Phone Number: +5493533684061
+Image: Images/Hello.png
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:47
+Phone Number: +5493533684061
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:47
+Phone Number: +5493533684061
+Image: /home/fer/Desktop/Python_New/BotChat/Img/Fabri.png
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:53
+Phone Number: +5493533684061
+Image: Fabri.png
+Caption: 
+--------------------
+Date: 17/11/2024
+Time: 8:54
+Phone Number: +5493533684061
+Image: Fabri.png
+Caption: 
+--------------------
