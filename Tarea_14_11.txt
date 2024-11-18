@@ -1,0 +1,46 @@
+El chiste de esta tarea es que puedas crear tu rama aparte de la MAIN
+esto lo haces con el comando
+
+PASO 1
+
+git br -c Nombre_de_tu_rama
+
+PASO 2
+
+# SI YA TENES UNA RAMA PRINCIPAL,ANDA AL PASO SIGUIENTE
+Luego de crear la rama,siempre se va a hacer como una especie de copia desde la rama donde la hiciste.
+Entonces si estas en la rama main con un commit que es el ultimo que vos tenes, esta va a hacer una copia
+de todas las cosas que estaban ahi pero con la diferencia que siempre vas a estar en una rama que no afecta
+para nada la rama principal.
+
+
+PASO 3
+
+El flujo de git es ese.
+Se crea la rama principal que siempre se llama "Main" o "Master"
+vos creas COPIAS de ese codigo en el momento que vos quieras, eso son los commits
+Luego trabajas en alguna cosas que quieras fusionar luego a la rama principal
+
+una vez estas conforme que tu codigo anda bien con la ultima actualizacion podes unir 
+tu codigo con el principal con el comando
+
+git merge main
+
+
+# ACLARACION DE USO DEL MERGE
+
+Para usarlo la logica es la siguiente
+(1) Me paro en la rama que tiene las cosas que quiero fusionar con el comando
+
+git checkout nombre_de_tu_rama #Aclaracion,esto te mueve a esta rama, si ya estas aca no tiene sentido ir a donde ya estas.
+
+(2) Con el merge apuntas a la rama a la que queres que tus cambios se fusionen con ella, en nuestro caso siempre es
+pararnos en la rama en la que estamos trabajando y fusionarla a la merge,pero podes fusionarla a reves sin problemasm
+o incluso entre otras ramas.
+
+
+PASO 4
+Una vez craste tu programa y lo fusionaste podes hacer un push al maste, o podes hacer lo que hice yo para que lo veas.
+Me cree una rama aparte con el Nombre Topics_Fer indicando que es una rama que tengo en mi compu,pero podria no estar en el main tranquilamente.
+Aca voy a subir todas las cosas que tenga yo y vos no podes tocar nada.
+Todos los cambios que yo quiera hacer,van a estar en el main y vos vas a tener que actualizarlo y bajarlo a tu main de tu compu.
