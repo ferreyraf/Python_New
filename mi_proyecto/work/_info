@@ -1,0 +1,191 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/feer
+vmi_diseno
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1729466315
+!i10b 1
+!s100 EJIKT6[Q<;>Uln>E^PRQl3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]h0>A<BzjSnVUZc_81]f^3
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z2 d/home/feer/Desktop/UVM/ModelSim/mi_proyecto
+w1729465543
+8/home/feer/Desktop/UVM/ModelSim/mi_proyecto/src/mi_diseno.sv
+F/home/feer/Desktop/UVM/ModelSim/mi_proyecto/src/mi_diseno.sv
+!i122 3
+L0 1 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1729466314.000000
+!s107 /home/feer/Desktop/UVM/ModelSim/mi_proyecto/src/mi_diseno.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/feer/Desktop/UVM/ModelSim/mi_proyecto/src/mi_diseno.sv|
+!i113 1
+Z4 o-work work -sv
+Z5 tCvgOpt 0
+Xuvm_pkg
+R0
+!s110 1729466068
+!i10b 1
+!s100 Da[U_Lk0cR8V[0APLnbYf2
+R1
+I0U^?z=2LES@NY0iGPLWKm0
+V0U^?z=2LES@NY0iGPLWKm0
+S1
+R2
+w1402647219
+F/home/feer/uvm/uvm-1.2/src/uvm_pkg.sv
+F/home/feer/uvm/uvm-1.2/src/dpi/uvm_dpi.svh
+F/home/feer/uvm/uvm-1.2/src/dpi/uvm_hdl.svh
+F/home/feer/uvm/uvm-1.2/src/dpi/uvm_svcmd_dpi.svh
+F/home/feer/uvm/uvm-1.2/src/dpi/uvm_regex.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_base.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_coreservice.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_version.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_object_globals.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_misc.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_object.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_pool.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_queue.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_factory.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_registry.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_spell_chkr.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_resource.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_resource_specializations.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_resource_db.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_config_db.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_printer.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_comparer.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_packer.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_links.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_tr_database.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_tr_stream.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_recorder.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_event_callback.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_event.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_barrier.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_callback.svh
+F/home/feer/uvm/uvm-1.2/src/uvm_macros.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_report_message.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_report_catcher.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_report_server.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_report_handler.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_report_object.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_transaction.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_phase.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_domain.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_bottomup_phase.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_topdown_phase.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_task_phase.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_common_phases.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_runtime_phases.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_component.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_root.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_objection.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_heartbeat.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_globals.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_cmdline_processor.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_traversal.svh
+F/home/feer/uvm/uvm-1.2/src/dap/uvm_dap.svh
+F/home/feer/uvm/uvm-1.2/src/dap/uvm_set_get_dap_base.svh
+F/home/feer/uvm/uvm-1.2/src/dap/uvm_simple_lock_dap.svh
+F/home/feer/uvm/uvm-1.2/src/dap/uvm_get_to_lock_dap.svh
+F/home/feer/uvm/uvm-1.2/src/dap/uvm_set_before_get_dap.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_sqr_ifs.svh
+F/home/feer/uvm/uvm-1.2/src/base/uvm_port_base.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_imps.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_imps.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_ports.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_exports.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_analysis_port.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_fifo_base.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_fifos.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_req_rsp.svh
+F/home/feer/uvm/uvm-1.2/src/tlm1/uvm_sqr_connections.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_comps.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_pair.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_policies.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_in_order_comparator.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_algorithmic_comparator.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_random_stimulus.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_subscriber.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_monitor.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_driver.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_push_driver.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_scoreboard.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_agent.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_env.svh
+F/home/feer/uvm/uvm-1.2/src/comps/uvm_test.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_seq.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_item.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_base.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_analysis_fifo.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_param_base.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_push_sequencer.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_base.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_library.svh
+F/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_builtin.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_defines.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_time.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_generic_payload.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_ifs.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_imps.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_ports.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_exports.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_sockets_base.svh
+F/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_sockets.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_model.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_item.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_adapter.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_predictor.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_sequence.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_cbs.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_backdoor.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_field.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_vreg_field.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_indirect.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_fifo.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_file.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_mem_mam.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_vreg.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_mem.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_map.svh
+F/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_block.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_hw_reset_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_bit_bash_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_mem_walk_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_mem_access_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_access_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_shared_access_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_built_in_seq.svh
+F/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_hdl_paths_seq.svh
+!i122 1
+L0 28 0
+R3
+r1
+!s85 0
+31
+!s108 1729466066.000000
+!s107 /home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_hdl_paths_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_built_in_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_mem_shared_access_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_access_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_mem_access_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_mem_walk_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_bit_bash_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/sequences/uvm_reg_hw_reset_seq.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_block.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_map.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_mem.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_vreg.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_mem_mam.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_file.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_fifo.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_indirect.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_vreg_field.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_field.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_backdoor.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_cbs.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_sequence.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_predictor.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_adapter.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_item.svh|/home/feer/uvm/uvm-1.2/src/reg/uvm_reg_model.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_sockets.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_sockets_base.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_exports.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_ports.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_imps.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_ifs.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_generic_payload.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_time.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2_defines.svh|/home/feer/uvm/uvm-1.2/src/tlm2/uvm_tlm2.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_builtin.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_library.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_base.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_push_sequencer.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_param_base.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_analysis_fifo.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequencer_base.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_sequence_item.svh|/home/feer/uvm/uvm-1.2/src/seq/uvm_seq.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_test.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_env.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_agent.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_scoreboard.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_push_driver.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_driver.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_monitor.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_subscriber.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_random_stimulus.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_algorithmic_comparator.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_in_order_comparator.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_policies.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_pair.svh|/home/feer/uvm/uvm-1.2/src/comps/uvm_comps.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_sqr_connections.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_req_rsp.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_fifos.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_fifo_base.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_analysis_port.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_exports.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_ports.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_imps.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_port_base.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_sqr_ifs.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_ifs.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm.svh|/home/feer/uvm/uvm-1.2/src/dap/uvm_set_before_get_dap.svh|/home/feer/uvm/uvm-1.2/src/dap/uvm_get_to_lock_dap.svh|/home/feer/uvm/uvm-1.2/src/dap/uvm_simple_lock_dap.svh|/home/feer/uvm/uvm-1.2/src/dap/uvm_set_get_dap_base.svh|/home/feer/uvm/uvm-1.2/src/dap/uvm_dap.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_traversal.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_cmdline_processor.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_globals.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_heartbeat.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_objection.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_root.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_component.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_runtime_phases.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_common_phases.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_task_phase.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_topdown_phase.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_bottomup_phase.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_domain.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_phase.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_transaction.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_report_object.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_report_handler.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_report_server.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_report_catcher.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_report_message.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_callback.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_barrier.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_event.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_event_callback.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_recorder.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_tr_stream.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_tr_database.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_links.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_packer.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_comparer.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_printer.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_config_db.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_resource_db.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_resource_specializations.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_resource.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_spell_chkr.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_registry.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_factory.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_queue.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_pool.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_object.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_misc.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_object_globals.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_version.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_coreservice.svh|/home/feer/uvm/uvm-1.2/src/base/uvm_base.svh|/home/feer/uvm/uvm-1.2/src/dpi/uvm_regex.svh|/home/feer/uvm/uvm-1.2/src/dpi/uvm_svcmd_dpi.svh|/home/feer/uvm/uvm-1.2/src/dpi/uvm_hdl.svh|/home/feer/uvm/uvm-1.2/src/dpi/uvm_dpi.svh|/home/feer/uvm/uvm-1.2/src/uvm_pkg.sv|/home/feer/uvm/uvm-1.2/src/macros/uvm_deprecated_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_reg_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_callback_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_sequence_defines.svh|/home/feer/uvm/uvm-1.2/src/tlm1/uvm_tlm_imps.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_tlm_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_printer_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_object_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_phase_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_message_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_global_defines.svh|/home/feer/uvm/uvm-1.2/src/macros/uvm_version_defines.svh|/home/feer/uvm/uvm-1.2/src/uvm_macros.svh|/home/feer/Desktop/UVM/ModelSim/mi_proyecto/tb/mi_diseno_tb.sv|
+!s90 -work|work|-sv|-stats=none|+incdir+/home/feer/uvm/uvm-1.2/src|/home/feer/Desktop/UVM/ModelSim/mi_proyecto/tb/mi_diseno_tb.sv|
+!i113 1
+R4
+!s92 -work work -sv +incdir+/home/feer/uvm/uvm-1.2/src
+R5
